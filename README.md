@@ -1,1 +1,1 @@
-# M7Project
+# M6ProjectSolve
